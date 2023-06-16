@@ -1,9 +1,4 @@
-/*
- * File: 1-last_digit.c
- * john
- */
-
-#include <stdlib.h>
+i#include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
 
@@ -37,5 +32,4 @@ int main(void)
 	}
 
 	return (0);
-
-}i
+}
