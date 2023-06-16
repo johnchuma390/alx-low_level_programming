@@ -1,3 +1,8 @@
+/*
+ * File: 101-print_comb4.c
+ * Auth: john
+ */
+
 #include <stdio.h>
 
 /**
@@ -32,4 +37,4 @@ int main(void)
 	putchar('\n');
 
 	return (0);
-}
+}}
