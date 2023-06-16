@@ -19,7 +19,7 @@ int main(void)
 
 			if (digit1 == 8 && digit2 == 9)
 				continue;
-			
+
 			putchar(',');
 			putchar(' ');
 		}
@@ -28,4 +28,5 @@ int main(void)
 	putchar('\n');
 
 	return (0);
+}
 }
