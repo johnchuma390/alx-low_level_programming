@@ -1,3 +1,8 @@
+/*
+ * File: 1-last_digit.c
+ * Auth: john
+ */
+
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
@@ -33,4 +38,4 @@ int main(void)
 
 	return (0);
 
-} 
+}
