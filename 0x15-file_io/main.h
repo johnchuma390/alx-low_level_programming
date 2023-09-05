@@ -13,5 +13,6 @@ int _strlen(const char *s);
 int append_text_to_file(const char *filename, char *text_content);
 char *create_buffer(char *file);
 void close_file(int fd);
+void copy_file(const char *file_from, const char *file_to);
 
 #endif /* _MAIN_H_ */
